@@ -15,9 +15,8 @@ changed again from remote
 
 commit
 
-<<<<<<< HEAD
+
 
 this is from local
-=======
+
 this is from remote
->>>>>>> f3ac7ac6138ddfda45529c8aa8ad313119e86be6
